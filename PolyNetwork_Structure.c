@@ -57,6 +57,9 @@ typedef struct GalgameDistribution
 	char OfficialSteam[MAXLEN];
 	char OfficialSteamDB[MAXLEN];
 	GalgameSource Source;
+	#ifndef __cplusplus or CPP
+		GalgameDistribution *next;
+	#endif // C++
 }GalgameDistribution;
 
 typedef struct Galgame
