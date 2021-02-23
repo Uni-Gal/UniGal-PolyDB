@@ -1,2 +1,3 @@
-# PolyGalgameNetwork
-A search engine and general useful database of Galgame
+# UniGal-PolyDB
+
+A metadata poly-structure of Galgame
