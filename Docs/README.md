@@ -1,9 +1,1 @@
-# PolyDB 文档树
-
-## PolyDB-Main.md
-
-## PolyDB-Galgame.md
-
-## PolyDB-GalgameSource.md
-
-......
+啥都没有，传统艺能建i18n文件夹
